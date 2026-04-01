@@ -8,9 +8,9 @@ Hiarko is a Kanban-style project management platform. It is composed of three in
 
 | Repository | Description |
 |---|---|
-| [hiarko-backend](https://github.com/vidar/hiarko-backend) | REST API server — Node.js, Express, TypeScript, PostgreSQL, Prisma |
-| [hiarko-frontend](https://github.com/vidar/hiarko-frontend) | Web application — Svelte 5, Vite, Tailwind CSS 4 |
-| [hio-cli](https://github.com/vidar/hio-cli) | Terminal CLI (`hio` command) — TypeScript |
+| [hiarko-backend](https://github.com/vidareriksson/hiarko-backend) | REST API server — Node.js, Express, TypeScript, PostgreSQL, Prisma |
+| [hiarko-frontend](https://github.com/vidareriksson/hiarko-frontend) | Web application — Svelte 5, Vite, Tailwind CSS 4 |
+| [hio-cli](https://github.com/vidareriksson/hio-cli) | Terminal CLI (`hio` command) — TypeScript |
 
 Each repository contains its own setup instructions, environment configuration, and development guide.
 
