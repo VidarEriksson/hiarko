@@ -4,6 +4,18 @@ Hiarko is a Kanban-style project management platform. It is composed of three in
 
 ---
 
+## Demos
+
+**Web app**
+
+<video src="demos/demo_web.mp4" controls width="100%"></video>
+
+**CLI**
+
+<video src="demos/cli_web.mp4" controls width="100%"></video>
+
+---
+
 ## Repositories
 
 | Repository | Description |
